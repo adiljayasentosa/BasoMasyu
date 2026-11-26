@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 64" role="img" aria-labelledby="t d">
+<title id="t">Baso Masyu</title><desc id="d">Logo mangkuk bakso dengan uap dan tulisan Baso Masyu</desc>
+<g fill="none" stroke="#B83A32" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round">
+<path d="M18 24c-2-6 2-9 5-13M31 24c-2-6 2-9 5-13M44 24c-2-6 2-9 5-13"/>
+<path d="M12 29h47l-5 17c-2 7-8 11-18 11S20 53 18 46z"/>
+<path d="M8 29c5-5 11-7 17-7 7 0 10 3 16 3 7 0 11-4 17-3"/>
+</g>
+<text x="72" y="36" fill="#242424" font-family="Arial, sans-serif" font-size="23" font-weight="800" letter-spacing="1">BASO</text>
+<text x="72" y="55" fill="#B83A32" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="4">MASYU</text>
+</svg>
